@@ -1,0 +1,7 @@
+Etherium Sepolia testnet deployment:
+
+https://sepolia.etherscan.io/tx/0x87f2d44fe9ec66cf84cc110ce54f937562db9ed77302615e7627cea9ebc5d480
+
+Contract address:
+
+0x9B3fa8eE3C5619f0Aa52780d7716630DB0281910
